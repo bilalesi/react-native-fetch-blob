@@ -1,4 +1,4 @@
-import Oboe from './lib/oboe-browser.min.js'
+import Oboe from './lib/oboe-browser.js'
 import XMLHttpRequest from './polyfill/XMLHttpRequest'
 import URIUtil from './utils/uri'
 
